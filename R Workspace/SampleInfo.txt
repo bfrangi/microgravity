@@ -1,0 +1,10 @@
+FileName	SampleName	Gravity
+s001_Line1_0g_repeat	s001_0g	Space_0g
+s002_Line1_0g_repeat	s002_0g	Space_0g
+s003_Line1_0g_repeat	s003_0g	Space_0g
+s004_Line1_1g_repeat	s004_1g	Space_1g
+s005_Line1_1g_repeat	s005_1g	Space_1g
+s006_Line1_1g_repeat	s006_1g	Space_1g
+s007_Line1_ground_repeat	s007_ground	Earth
+s008_Line1_ground_repeat	s008_ground	Earth
+s009_Line1_ground_repeat	s009_ground	Earth
