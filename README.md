@@ -1,6 +1,6 @@
 # Code and Data for Transcriptomic Analysis of the Response of hiPSC-derived Cardiac Progenitors to Microgravity
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14567482.svg)](https://doi.org/10.5281/zenodo.14567482)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14567481.svg)](https://doi.org/10.5281/zenodo.14567481)
 
 Data used for this experiment: *GEO: GSE188793* [[1]] [[2]].
 
