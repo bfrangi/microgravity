@@ -12,3 +12,17 @@ Data used for this experiment: *GEO: GSE188793* [[1]] [[2]].
 
 [1]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188793
 [2]: https://pubmed.ncbi.nlm.nih.gov/36084640/
+
+**Cite this repository**
+
+```bibtex
+@software{bernat_frangi_2024_14567481,
+  author       = {Bernat Frangi},
+  title        = {Code and Data for Transcriptomic Analysis of the Response of hiPSC-derived Cardiac Progenitors to Microgravity},
+  month        = 12,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.14567481},
+  url          = {https://doi.org/10.5281/zenodo.14567481},
+}
+```
